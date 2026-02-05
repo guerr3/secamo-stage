@@ -1,0 +1,16 @@
+{
+  "livePreview": true,
+  "defaultViewMode": "source",
+  "attachmentFolderPath": "08-Resources",
+  "showFrontmatter": true,
+  "useMarkdownLinks": false,
+  "newFileLocation": "current",
+  "focusNewTab": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true
+}

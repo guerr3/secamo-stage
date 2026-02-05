@@ -1,0 +1,34 @@
+# Obsidian workspace files
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+*.backup
+
+# Resources
+
+*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
+.Spotlight-V100
+.Trashes
+
+# Private folder (BELANGRIJK!)
+09-Private/
+
+# Temp files
+*.tmp
+~$*
+*.swp
+*.tmp*
+
+# Credentials & secrets
+.env
+secrets.*
+credentials.*
+*-private.md
+sensitive-*
+
+# Obsidian plugins (optional - comment out if you want to sync)
+#.obsidian/plugins/
+#.obsidian/community-plugins.json
