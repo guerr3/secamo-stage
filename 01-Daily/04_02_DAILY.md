@@ -26,9 +26,9 @@ status: 🌱
 
 | TAAK                                              | OUTPUT                  |
 | ------------------------------------------------- | ----------------------- |
-| Feedbackgesprek Xander                            | [[04_02_Feedback]]      |
+| Feedbackgesprek Xander                            | [[05_02_Feedback]]      |
 | Verder onderzoeken automatiseringsopportuniteiten | [[01_ANALYSE_RESEARCH]] |
-| Extra vragen Xander                               | [[04_02_Feedback]]      |
+| Extra vragen Xander                               | [[05_02_Feedback]]      |
 
 
 ## Feedback

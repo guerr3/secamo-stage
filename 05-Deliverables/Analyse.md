@@ -16,7 +16,7 @@ status: 🟡
 ### Organisatie Analyse
 - **Bedrijf**: Secamo (e-Solutions Services NV)
 - **Focus**: Cybersecurity services & consulting
-- **Team**: 
+- **Team**: Implementation
 
 ### Technische Context
 - **Infrastructuur**: 

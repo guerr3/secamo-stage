@@ -20,7 +20,9 @@ Gebruik deze eisen als “requirements checklist” voor je analysedocument (non
   
 - SLA per domein: Support (sneller, meer runs), HR/Invoicing (minder runs maar streng auditbaar), Implementation (mix van approvals + technische stappen).
     
-- Timeouts & timers: “wacht op approval” is first-class (met escalatiepad indien er niet wordt gereageerd op deze approval gate).
+- Timeouts & timers: “wacht op approval” is first-class (met escalatiepad indien er niet wordt gereageerd op deze approval gate
+
+
     
 **Schaalbaarheid**
 

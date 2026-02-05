@@ -51,7 +51,8 @@ Ik bouw een Process Orchestrator, wat betekent dat ik processen moet vinden die 
 
 #### 1. "Pijn Matrix" opstellen
 
-Gesprekken voeren met Secamo collega's (vooral technische profielen) over wat ze doen, welke taken ze uitvoeren en welke tools ze gebruiken. Hierbij is het belangrijk dat we geen oppervlakkige vragen stellen zoals enkel "wat doe je" maar hier dieper op ingaan met vragen zoals: 
+Gesprekken voeren met Secamo collega's (vooral technische profielen) over wat ze doen, welke taken ze uitvoeren en welke tools ze gebruiken. Hierbij is het belangrijk dat we geen oppervlakkige vragen stellen zoals enkel "wat doe je" maar hier dieper op ingaan met vragen zoals:
+
 - "Welke taak heb je deze week al meer dan 3 keer manueel uitgevoerd ?"
 - "Bij welk process moet je wachten op goedkeuring van een collega (of klant) voordat je verder kan?"
 - "Waar loopt de overdracht tussen verschillende teams soms mis?"
